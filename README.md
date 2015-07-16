@@ -1,2 +1,2 @@
 # datasciencecoursera
-Create new depository for the Coursera Project
+Create new repo for the Coursera Project
